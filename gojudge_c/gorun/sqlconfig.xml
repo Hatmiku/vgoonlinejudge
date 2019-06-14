@@ -1,0 +1,6 @@
+<sqlconn>
+	<sqlhost>127.0.0.1</sqlhost>
+	<sqlport>3306</sqlport>
+	<sqluser>root</sqluser>
+	<sqlpass>0000</sqlpass>
+</sqlconn>
